@@ -143,7 +143,7 @@ docker run -p 7860:7860 dc-prof
 | `Dockerfile` | Optional container build with the model included |
 | `LICENSE` | MIT licence for our code |
 
-## Add your own notes
+## Other notes
 
 Reference notes live in the `NOTES` dictionary in `app.py`. Each note is a set of keywords a question might contain, followed by a short, checked fact:
 
